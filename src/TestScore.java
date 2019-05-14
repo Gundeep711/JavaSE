@@ -16,7 +16,7 @@ public class TestScore {
 		System.out.println("Enter score for test 3 :");
 		int input3=sc.nextInt();
 		System.out.println("Total score is : "+input1+input2+input3);
-		System.out.println("Commit  ::::::");
+		System.out.println("Commit on new branch");
 
 	}
 
